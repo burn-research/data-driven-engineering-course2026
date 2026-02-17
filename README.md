@@ -11,6 +11,7 @@ Materials for the data-driven engineering course at ULB.
 3. Search burn-research/data-driven-engineering-course2026.
 4. Click on test_colab.ipynb.
 5. Click on File/Save a copy in Drive.
+6. Click on 'Run all'.
 
 ## Contacts
 - Alberto Procacci (Alberto.Procacci@ulb.be)
