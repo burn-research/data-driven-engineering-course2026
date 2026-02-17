@@ -4,8 +4,25 @@
 
 Materials for the data-driven engineering course at ULB.
 
-## Resources to help you with Python:
+## How to use Google Colab
 
+1. Go to [Google Colab](https://colab.research.google.com/).
+2. Click on Github.
+3. Search burn-research/data-driven-engineering-course2026.
+4. Click on test_colab.ipynb.
+5. Click on File/Save a copy in Drive.
+
+## Contacts
+- Alberto Procacci (Alberto.Procacci@ulb.be)
+- Dimitri Hanssens (Dimitri.Hanssens@ulb.be)
+- Maxime Jongen (Maxime.Jongen@ulb.be)
+- Lounia Fossion (Lounia.Fossion@ulb.be)
+
+You can contact us either by email or Teams. 
+
+## Resources to help you with Python:
+We will use Google Colab to run Python code on a remote machine, which includes GPUs and TPUs. To use Colab you only need a Google account. You can find more information on Colab in these links:
+- [Google Colab FAQs](https://research.google.com/colaboratory/faq.html) 
 - [Google Colab intro](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/intro-notebooks.ipynb)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
