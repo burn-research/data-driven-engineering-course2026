@@ -1,4 +1,4 @@
-# Data-driven engineering course 2023
+# Data-driven engineering course 2026
 
 ![Screenshot](logoulb.gif)
 
