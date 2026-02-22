@@ -32,3 +32,5 @@ POD/pod.key
 POD/visuals.py
 POD/images/*
 Bayesian_statistics/i*
+example_pca.py
+PCA/instructions.key
