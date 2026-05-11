@@ -36,6 +36,9 @@ You can ask for the solution of future exercise sessions if you need it for the 
 > First deadline: **6 April**:\
 > You must send to alberto.procacci@ulb.be **by April 6th a half-page document including: the group members, your chosen toy dataset, the real-world dataset, and your research question for approval.** This first deadline is mandatory but will not be part of the evaluation per se.
 
+> Second deadline: **9 June**:\
+> The report should be sent to alberto.procacci@ulb.be (the energy and robotics students should include also Pr. Parente and Pr. Garone in the email), before the **9th of June at 23h59**. Any report received late will be subject to 5 points penalty per day.
+
 ## Resources to help you with Python:
 - [Google Colab tutorial](https://www.youtube.com/watch?v=1MqYi-mlBDA) 
 - [Google Colab intro](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/intro-notebooks.ipynb)
